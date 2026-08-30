@@ -1,7 +1,9 @@
-<p align="center">If I live to be a weathervane</p>
-<p align="center">Always pointing off, away, to lead you 'long the flyway</p>
-<p align="center">Turned to face this side of you</p>
-<p align="center">Would it be enough for me to lead your way?</p>
+<p align="center">Bones, bones, bones.</p>
+<p align="center">Hell, we're all alone.</p>
+<p align="center">If I come home, baby, will you show your</p>
+<p align="center">bones,bones,bones?</p>
+<p align="center">I can see my bones.</p>
+<p align="center">Well I don't wanna know if the feeling follows home.</p>
 
 
 <!--

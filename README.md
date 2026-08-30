@@ -1,15 +1,8 @@
-## Hi there 👋
+<p align="center">If I live to be a weathervane</p>
+<p align="center">Always pointing off, away, to lead you 'long the flyway</p>
+<p align="center">Turned to face this side of you</p>
+<p align="center">Would it be enough for me to lead your way?</p>
 
-<p align="center">Withered roses</p>
-<p align="center">cast aside</p>
-<p align="center">shades of gray, laid out your way</p>
-  .
-<p align="center">Sun is getting covered</p>
-<p align="center">by all these cloudy thoughts that bloom inside my head oh</p>
-.
-<p align="center">Faded days</p>
-<p align="center">burn in my heart</p>
-<p align="center">a simple husk of what once was</p>
 
 <!--
 **BringingDOOMtoALL/BringingDOOMtoALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

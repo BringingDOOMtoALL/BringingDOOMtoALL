@@ -3,7 +3,7 @@
 <p align="center">Withered roses</p>
 <p align="center">cast aside</p>
 <p align="center">shades of gray, laid out your way</p>
-
+\s
 <p align="center">Sun is getting covered</p>
 <p align="center">by all these cloudy thoughts that bloom inside my head oh</p>
 

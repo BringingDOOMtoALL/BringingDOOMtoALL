@@ -1,7 +1,7 @@
 <p align="center">Bones, bones, bones.</p>
 <p align="center">Hell, we're all alone.</p>
 <p align="center">If I come home, baby, will you show your</p>
-<p align="center">bones,bones,bones?</p>
+<p align="center">bones, bones, bones?</p>
 <p align="center">I can see my bones.</p>
 <p align="center">Well I don't wanna know if the feeling follows home.</p>
 ㅤㅤㅤ

@@ -16,6 +16,6 @@
 ㅤㅤㅤ
 <p align="center">W2I as I sometimes off-tab or don't pay attention to public chat that much.</p>
 
-<p align="center">I have a bad grammar + Sometimes might not be active in Pony Town.</p>
+<p align="center">I have bad grammar + sometimes might not active in Pony Town.</p>
 ㅤㅤㅤ
 <p align="center">I'm a bit lazy to somewhat make this repository better.</p>

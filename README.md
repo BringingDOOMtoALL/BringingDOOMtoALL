@@ -4,20 +4,18 @@
 <p align="center">bones,bones,bones?</p>
 <p align="center">I can see my bones.</p>
 <p align="center">Well I don't wanna know if the feeling follows home.</p>
+ㅤㅤㅤ
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8f1f54a9-7f98-4346-8be8-0b4df6cee30c" />
 
-<!--
-**BringingDOOMtoALL/BringingDOOMtoALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">.</p>
+<p align="center">.</p>
+<p align="center">.</p>
+ 
+<p align="center">Sometimes not really focused or just quiet — It doesn't mean anything though, I'm just overall easily distracted. (I'm somewhat slow so .. if you're patient with me, I would very much appreciate it as it means a lot to me.)</p>
+ㅤㅤㅤ
+<p align="center">W2I as I sometimes off-tab or don't pay attention to public chat that much.</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I have a bad grammar + Sometimes might not be active in Pony Town.</p>
+ㅤㅤㅤ
+<p align="center">I'm a bit lazy to somewhat make this repository better.</p>

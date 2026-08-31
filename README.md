@@ -17,6 +17,6 @@
 <p align="center">W2I as I sometimes off-tab or don't pay attention to public chat that much.</p>
 
 <p align="center">I have bad grammar + sometimes not active in Pony Town.</p>
-<p align="center">I'm maybe active around 15.30 — 21.00 on the weekdays and 12.00 — 22.30 on the weekend. (If I'm not busy or doing anything.)</p>
+<p align="center">I'm maybe active around 16.30 — 21.00 on the weekdays and 12.00 — 22.30 on the weekend. (If I'm not busy or doing anything.)</p>
 ㅤㅤㅤ
 <p align="center">I'm a bit lazy to somewhat make this repository better.</p>

@@ -1,11 +1,3 @@
-<p align="center">Bones, bones, bones.</p>
-<p align="center">Hell, we're all alone.</p>
-<p align="center">If I come home, baby, will you show your</p>
-<p align="center">bones, bones, bones?</p>
-<p align="center">I can see my bones.</p>
-<p align="center">Well I don't wanna know if the feeling follows home.</p>
-ㅤㅤㅤ
-
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8f1f54a9-7f98-4346-8be8-0b4df6cee30c" />
 
 <p align="center">.</p>
